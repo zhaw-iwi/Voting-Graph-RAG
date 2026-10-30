@@ -1,0 +1,9 @@
+{
+  "initiative_count": 10,
+  "booklet_count": 4,
+  "chunk_count": 217,
+  "chunking": "Per PDF page, 180 words, 35-word overlap; pages under 20 words omitted.",
+  "chunk_sha256": "5d5d3e1b1d95124d68df1ed57f8eb483c77abaca15e6088ae7bc2dba25ff2396",
+  "generated_on": "2026-10-29",
+  "review_status": "Prototype: page boundaries checked against headings; full extraction, chunk-boundary and topic-annotation review pending."
+}

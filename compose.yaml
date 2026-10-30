@@ -1,0 +1,13 @@
+services:
+  graph-rag:
+    build: .
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    ports:
+      - "127.0.0.1:8890:8890"
+    init: true
+    environment:
+      OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
+      OPENAI_GENERATION_MODEL: "${OPENAI_GENERATION_MODEL:-gpt-6-luna}"
+      OPENAI_EMBEDDING_MODEL: "${OPENAI_EMBEDDING_MODEL:-text-embedding-3-small}"

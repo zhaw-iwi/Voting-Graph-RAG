@@ -1,0 +1,732 @@
+{
+  "initiatives": [
+    {
+      "ballot_id": "H2016",
+      "title": "Für Ehe und Familie – gegen die Heiratsstrafe",
+      "ballot_date": "2016-02-28",
+      "source_id": "source:H2016",
+      "booklet_id": "B2016",
+      "topics": [
+        "steuern",
+        "familie",
+        "altersvorsorge"
+      ],
+      "topic_evidence_pages": [
+        4,
+        5
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 4,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 5,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 6,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 7,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 8,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 9,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 10,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 11,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 12,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 13,
+          "source_role": "behoerden"
+        }
+      ]
+    },
+    {
+      "ballot_id": "D2016",
+      "title": "Zur Durchsetzung der Ausschaffung krimineller Ausländer (Durchsetzungsinitiative)",
+      "ballot_date": "2016-02-28",
+      "source_id": "source:D2016",
+      "booklet_id": "B2016",
+      "topics": [
+        "migration",
+        "grundrechte"
+      ],
+      "topic_evidence_pages": [
+        14,
+        15
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 14,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 15,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 16,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 17,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 18,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 19,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 20,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 21,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 22,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 23,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 24,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 25,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 26,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 27,
+          "source_role": "behoerden"
+        }
+      ]
+    },
+    {
+      "ballot_id": "S2016",
+      "title": "Keine Spekulation mit Nahrungsmitteln!",
+      "ballot_date": "2016-02-28",
+      "source_id": "source:S2016",
+      "booklet_id": "B2016",
+      "topics": [
+        "finanzmarkt",
+        "ernaehrung"
+      ],
+      "topic_evidence_pages": [
+        28,
+        29
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 28,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 29,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 30,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 31,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 32,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 33,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 34,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 35,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 36,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 37,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 38,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 39,
+          "source_role": "behoerden"
+        }
+      ]
+    },
+    {
+      "ballot_id": "A2024",
+      "title": "Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)",
+      "ballot_date": "2024-03-03",
+      "source_id": "source:A2024",
+      "booklet_id": "B2024M",
+      "topics": [
+        "altersvorsorge"
+      ],
+      "topic_evidence_pages": [
+        4,
+        5
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 4,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 5,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 8,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 9,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 10,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 11,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 12,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 14,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 15,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 16,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 17,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 18,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 19,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "R2024",
+      "title": "Für eine sichere und nachhaltige Altersvorsorge (Renteninitiative)",
+      "ballot_date": "2024-03-03",
+      "source_id": "source:R2024",
+      "booklet_id": "B2024M",
+      "topics": [
+        "altersvorsorge"
+      ],
+      "topic_evidence_pages": [
+        6,
+        7
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 6,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 7,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 20,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 21,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 22,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 23,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 24,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 25,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 26,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 27,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 28,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 29,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 30,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 31,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "P2024",
+      "title": "Maximal 10% des Einkommens für die Krankenkassenprämien (Prämien-Entlastungs-Initiative)",
+      "ballot_date": "2024-06-09",
+      "source_id": "source:P2024",
+      "booklet_id": "B2024J",
+      "topics": [
+        "gesundheit",
+        "finanzierung"
+      ],
+      "topic_evidence_pages": [
+        4,
+        5
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 4,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 5,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 12,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 13,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 14,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 15,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 16,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 17,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 18,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 19,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 20,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 21,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "K2024",
+      "title": "Für tiefere Prämien – Kostenbremse im Gesundheitswesen (Kostenbremse-Initiative)",
+      "ballot_date": "2024-06-09",
+      "source_id": "source:K2024",
+      "booklet_id": "B2024J",
+      "topics": [
+        "gesundheit",
+        "finanzierung"
+      ],
+      "topic_evidence_pages": [
+        6,
+        7
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 6,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 7,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 22,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 23,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 24,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 25,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 26,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 27,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 28,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 29,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 30,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 31,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "U2024",
+      "title": "Für Freiheit und körperliche Unversehrtheit",
+      "ballot_date": "2024-06-09",
+      "source_id": "source:U2024",
+      "booklet_id": "B2024J",
+      "topics": [
+        "gesundheit",
+        "grundrechte"
+      ],
+      "topic_evidence_pages": [
+        8,
+        9
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 8,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 9,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 32,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 33,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 34,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 35,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 36,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 37,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 38,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 39,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 40,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 41,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "F2026",
+      "title": "Für eine Einschränkung von Feuerwerk",
+      "ballot_date": "2026-11-29",
+      "source_id": "source:F2026",
+      "booklet_id": "B2026",
+      "topics": [
+        "umwelt",
+        "gesundheit"
+      ],
+      "topic_evidence_pages": [
+        6,
+        7
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 6,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 7,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 26,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 27,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 28,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 29,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 30,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 31,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 32,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 33,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 34,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 35,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    },
+    {
+      "ballot_id": "C2026",
+      "title": "Ja zu fairen Bundessteuern auch für Ehepaare – Diskriminierung der Ehe endlich abschaffen!",
+      "ballot_date": "2026-11-29",
+      "source_id": "source:C2026",
+      "booklet_id": "B2026",
+      "topics": [
+        "steuern",
+        "familie"
+      ],
+      "topic_evidence_pages": [
+        8,
+        9
+      ],
+      "selected_pages": [
+        {
+          "pdf_page": 8,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 9,
+          "source_role": "kurzfassung"
+        },
+        {
+          "pdf_page": 36,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 37,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 38,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 39,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 40,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 41,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 42,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 43,
+          "source_role": "erlaeuterungen"
+        },
+        {
+          "pdf_page": 44,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 45,
+          "source_role": "initiativkomitee"
+        },
+        {
+          "pdf_page": 46,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 47,
+          "source_role": "behoerden"
+        },
+        {
+          "pdf_page": 48,
+          "source_role": "abstimmungstext"
+        },
+        {
+          "pdf_page": 49,
+          "source_role": "abstimmungstext"
+        }
+      ]
+    }
+  ],
+  "topics": {
+    "steuern": "Steuern",
+    "familie": "Ehe und Familie",
+    "altersvorsorge": "Altersvorsorge und AHV",
+    "migration": "Migration",
+    "grundrechte": "Grundrechte",
+    "finanzmarkt": "Finanzmarkt",
+    "ernaehrung": "Ernährung",
+    "gesundheit": "Gesundheit",
+    "finanzierung": "Finanzierung",
+    "umwelt": "Umwelt"
+  },
+  "booklets": [
+    {
+      "booklet_id": "B2016",
+      "source_url": "https://swissvotes.ch/vote/596.00/brochure-de.pdf",
+      "original_repo_path": "exercises/embedding_lab/data/source/abstimmungsbuechlein_2016.pdf",
+      "packaged_file": "pdfs/B2016.pdf",
+      "sha256": "431f413c23bbf085f8e0c42f6a1dcb8129c49704995775bbd8b9bbcbde71b9be",
+      "pdf_page_count": 56
+    },
+    {
+      "booklet_id": "B2024M",
+      "source_url": "https://swissvotes.ch/vote/665.00/brochure-de.pdf",
+      "original_repo_path": "challenge/corpus/pdfs/A2024.pdf",
+      "packaged_file": "pdfs/B2024M.pdf",
+      "sha256": "53c7cc72c28f80969ed56d7813ad8c05e505b1817923418d0dfa45368a6bd07e",
+      "pdf_page_count": 32
+    },
+    {
+      "booklet_id": "B2024J",
+      "source_url": "https://swissvotes.ch/vote/667.00/brochure-de.pdf",
+      "original_repo_path": "challenge/corpus/pdfs/P2024.pdf",
+      "packaged_file": "pdfs/B2024J.pdf",
+      "sha256": "b5ced6e09502bf5956ce6219c8332a1611566b19a8d8ff7ddf3beb6c44924f92",
+      "pdf_page_count": 88
+    },
+    {
+      "booklet_id": "B2026",
+      "source_url": "https://www.admin.ch/dam/de/sd-web/HXhFMFWOaa6u/BAR_Erlaeuterungen_Nov26_DE_v10.pdf",
+      "original_repo_path": "exercises/embedding_lab/data/source/abstimmungsbuechlein_2026.pdf",
+      "packaged_file": "pdfs/B2026.pdf",
+      "sha256": "391b1f2941820c9859b0fef5ac6dd366e325076ebd125f0c5ecd763fea428be2",
+      "pdf_page_count": 64
+    }
+  ],
+  "scope": "Ten Volksinitiativen with their own sections in the four available booklets. Other ballot proposal types and initiatives only mentioned in passing are excluded.",
+  "source_selection": "One source node represents initiative-specific pages, not an independent publication. Multiple initiatives can share one physical booklet.",
+  "topic_policy": "Instructor-curated broad navigation labels; not an official taxonomy, exhaustive issue list or equivalence between proposals. Evidence pages indicate where to inspect the classification.",
+  "temporal_policy": "Read each booklet in its historical context. No vote-result dataset is supplied. A 2026 source may mention later developments; do not impose a global pre-2024 cutoff.",
+  "review_status": "Prototype: page boundaries checked against headings; full extraction, chunk-boundary and topic-annotation review pending."
+}
